@@ -1,0 +1,21 @@
+{
+  "name": "swipebox",
+  "version": "1.0.0",
+  "description": "A touchable jQuery lightbox based on swipebox v1.4.6, but fixed for jQuery3+",
+  "main": "/src/js/jquery.swipebox.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedik007/swipebox.git"
+  },
+  "keywords": [
+    "Lightbox",
+    "jQuery",
+    "swipebox"
+  ],
+  "author": "Constantin Saguin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedik007/swipebox.git"
+  },
+  "homepage": "https://github.com/nedik007/swipebox.git#readme"
+}
