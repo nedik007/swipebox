@@ -3,6 +3,13 @@ Swipebox
 
 ## Based on Swipebox by http://brutaldesign.github.com/swipebox
 
+## Install
+```bash
+yarn add swipeboxjq3
+```
+
+
+
 
 A touchable jQuery lightbox.
 
